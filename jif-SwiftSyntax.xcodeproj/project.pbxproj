@@ -35,6 +35,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EE0100E21C3CD829000E5333 /* SomeTestCodeDemo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SomeTestCodeDemo.playground; sourceTree = "<group>"; };
+		EE0100E31C3CD829000E5333 /* SwiftStudy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftStudy.playground; sourceTree = "<group>"; };
+		EE0100E41C3CD829000E5333 /* SyntaxPlay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SyntaxPlay.playground; sourceTree = "<group>"; };
 		EEB7994C1C3CD62F00FB665A /* jif-SwiftSyntax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "jif-SwiftSyntax.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEB7994F1C3CD62F00FB665A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEB799511C3CD62F00FB665A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +82,9 @@
 		EEB799431C3CD62F00FB665A = {
 			isa = PBXGroup;
 			children = (
+				EE0100E21C3CD829000E5333 /* SomeTestCodeDemo.playground */,
+				EE0100E31C3CD829000E5333 /* SwiftStudy.playground */,
+				EE0100E41C3CD829000E5333 /* SyntaxPlay.playground */,
 				EEB7994E1C3CD62F00FB665A /* jif-SwiftSyntax */,
 				EEB799661C3CD62F00FB665A /* jif-SwiftSyntaxTests */,
 				EEB799711C3CD62F00FB665A /* jif-SwiftSyntaxUITests */,
@@ -490,6 +496,7 @@
 				EEB799791C3CD62F00FB665A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EEB7997A1C3CD62F00FB665A /* Build configuration list for PBXNativeTarget "jif-SwiftSyntaxTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +505,7 @@
 				EEB7997C1C3CD62F00FB665A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EEB7997D1C3CD62F00FB665A /* Build configuration list for PBXNativeTarget "jif-SwiftSyntaxUITests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +514,7 @@
 				EEB7997F1C3CD62F00FB665A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
