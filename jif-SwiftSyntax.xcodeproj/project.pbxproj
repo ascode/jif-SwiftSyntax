@@ -38,6 +38,7 @@
 		EE0100E21C3CD829000E5333 /* SomeTestCodeDemo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SomeTestCodeDemo.playground; sourceTree = "<group>"; };
 		EE0100E31C3CD829000E5333 /* SwiftStudy.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftStudy.playground; sourceTree = "<group>"; };
 		EE0100E41C3CD829000E5333 /* SyntaxPlay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SyntaxPlay.playground; sourceTree = "<group>"; };
+		EE8CE7DE1C44D5620073658C /* Time.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Time.playground; sourceTree = "<group>"; };
 		EEB7994C1C3CD62F00FB665A /* jif-SwiftSyntax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "jif-SwiftSyntax.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEB7994F1C3CD62F00FB665A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EEB799511C3CD62F00FB665A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -82,6 +83,7 @@
 		EEB799431C3CD62F00FB665A = {
 			isa = PBXGroup;
 			children = (
+				EE8CE7DE1C44D5620073658C /* Time.playground */,
 				EE0100E21C3CD829000E5333 /* SomeTestCodeDemo.playground */,
 				EE0100E31C3CD829000E5333 /* SwiftStudy.playground */,
 				EE0100E41C3CD829000E5333 /* SyntaxPlay.playground */,
